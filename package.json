@@ -1,0 +1,28 @@
+{
+  "name": "js-learnings",
+  "version": "0.0.0",
+  "description": "For teaching and learning JavaScript",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guntherjh/js-learnings.git"
+  },
+  "author": "John Gunther",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guntherjh/js-learnings/issues"
+  },
+  "homepage": "https://github.com/guntherjh/js-learnings",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-babel": "^4.0.0",
+    "vinyl-source-stream": "^1.0.0",
+    "browserify": "^8.1.3"
+  }
+}
